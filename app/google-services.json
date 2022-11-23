@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "629474960745",
+    "project_id": "tienthuoctay-7b342",
+    "storage_bucket": "tienthuoctay-7b342.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629474960745:android:a59972cb32f779d0d349f8",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629474960745-h5ju7svvocrfrkpjkn17b0makj0lemfh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr5faF0J_VXfMRHbd9EhyAfueb6cgeszU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629474960745-h5ju7svvocrfrkpjkn17b0makj0lemfh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
